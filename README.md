@@ -1,6 +1,4 @@
-
-
-## Hi there, I'm Alex 👋
+# Hi there, I'm Alex 👋
 
 Full-stack developer, eager to apply new technologies to create software that makes people’s lives easier. 
 
@@ -8,7 +6,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ⚡ Fun fact: I developed a passion writing code because it's like solving a puzzle except better because the pieces are interchangeable.
 
-### Projects 🎨 
+## Projects 🎨 
 
 **Today** - [Frontend Repo](https://github.com/gamil91/today-frontend) |  Demo 
 
@@ -22,18 +20,9 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
-### Get in touch 📫 
-<p>
-<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
-  
- <a href="https://dev.to/gamil91" rel="nofollow">
-  <img align="left" src=  
-  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
-</p>
-<br/>
-### Skills 💻 
-<p>
+## Skills 💻 
+
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;">
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" style="max-width:100%;">
@@ -49,8 +38,16 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" height="40" width="40" style="max-width:100%;">
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
-</p>
-<br/>
 
+
+## Get in touch 📫 
+
+
+<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
+  
+ <a href="https://dev.to/gamil91" rel="nofollow">
+  <img align="left" src=  
+  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
 
 
