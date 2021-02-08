@@ -39,7 +39,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
 
-
+* * *
 ## Get in touch 📫 
 
 
