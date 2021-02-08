@@ -50,5 +50,5 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   
  <a href="https://dev.to/gamil91" rel="nofollow">
   <img align="left" src=  
-  https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
+  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
 
