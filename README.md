@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
 
+Full-stack developer, eager to apply new technologies to create software that makes people’s lives easier. 
+
+With a background in hospitality, I value the fulfillment of creating meaningful and memorable experiences. My desire to make a lasting difference that is accessible to everyone is what led me to software engineering. Immersing myself into object-oriented and functional programming, multiple languages, and frameworks, evidently proved the potential of growth for the community and myself is limitless. I am thrilled at the opportunity to contribute to any project that is motivated by positively impacting our day to day lives.
 <!--
 **gamil91/gamil91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
