@@ -23,6 +23,8 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 👕 UniTee is a single page ecommerce application that sells pocket tees. 
 
 ### Skills
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;"></a>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;">
 
@@ -39,7 +41,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" height="40" width="40" style="max-width:100%;">
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
-
+</p>
 
 ### Get in touch 📫 
 
