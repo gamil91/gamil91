@@ -12,15 +12,15 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 **Today** - [Frontend Repo](https://github.com/gamil91/today-frontend) |  Demo 
 
-📚 A productivity tool that integrates blog posting and list making applications into one application. 
+📚  A productivity tool that integrates blog posting and list making applications into one application. 
 
 **MAKEgotchi** -  [Frontend Repo](https://github.com/nnhk23/makegotchi-frontend) |  [Demo](https://www.loom.com/share/1d922ab3b61a40e387eead7d8eb1d4af)  
 
-👾 Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
+👾  Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
 
 **UniTee** - [Frontend Repo](https://github.com/gamil91/phase3-project-unitee-frontend) |  [Demo](https://github.com/gamil91/phase3-project-unitee-frontend) 
 
-👕 UniTee is a single page ecommerce application that sells pocket tees. 
+👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
 ### Skills
 <p>
@@ -41,8 +41,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
 </p>
 <br/>
-
-
+<br/>
 ### Get in touch 📫 
 
 <a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
