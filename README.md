@@ -22,7 +22,16 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
-### Skills
+### Get in touch 📫 
+
+<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
+  
+ <a href="https://dev.to/gamil91" rel="nofollow">
+  <img align="left" src=  
+  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
+<br/>
+### Skills 💻 
 <p>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;">
 
@@ -41,13 +50,6 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
 </p>
 <br/>
-<br/>
-### Get in touch 📫 
 
-<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
-  
- <a href="https://dev.to/gamil91" rel="nofollow">
-  <img align="left" src=  
-  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
+
 
