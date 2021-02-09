@@ -1,14 +1,4 @@
 # Hi there, I'm Alex 👋 
-<center>
-<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
-  
- <a href="https://dev.to/gamil91" rel="nofollow">
-  <img align="left" src=  
-  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
-  
-  </center>
-  <br />
 <hr />
 
 Full-stack developer, eager to apply new technologies to create software that makes people’s lives easier. 
@@ -54,9 +44,16 @@ With a background in hospitality, I value the fulfillment of creating meaningful
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
 <br />
 <hr />
-<br />
 
 ## Get in touch 📫 
+
+<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
+  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
+  
+ <a href="https://dev.to/gamil91" rel="nofollow">
+  <img align="left" src=  
+  "https://cdn.worldvectorlogo.com/logos/devto.svg" height="40" width="40" style="max-width:100%;"></a>
+  
 
 
 
