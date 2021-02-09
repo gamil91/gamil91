@@ -8,17 +8,17 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ## Projects 🎨 
 
-📚  **Today** - [Frontend Repo](https://github.com/gamil91/today-frontend) |  Demo 
+#### Today - [Frontend Repo](https://github.com/gamil91/today-frontend) |  Demo 
 
-A productivity tool that integrates blog posting and list making applications into one application. 
+📚  A productivity tool that integrates blog posting and list making applications into one application. 
 
-👾  **MAKEgotchi** -  [Frontend Repo](https://github.com/nnhk23/makegotchi-frontend) |  [Demo](https://www.loom.com/share/1d922ab3b61a40e387eead7d8eb1d4af)  
+#### MAKEgotchi -  [Frontend Repo](https://github.com/nnhk23/makegotchi-frontend) |  [Demo](https://www.loom.com/share/1d922ab3b61a40e387eead7d8eb1d4af)  
 
-Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
+👾  Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
 
-👕  **UniTee** - [Frontend Repo](https://github.com/gamil91/phase3-project-unitee-frontend) |  [Demo](https://github.com/gamil91/phase3-project-unitee-frontend) 
+#### UniTee - [Frontend Repo](https://github.com/gamil91/phase3-project-unitee-frontend) |  [Demo](https://github.com/gamil91/phase3-project-unitee-frontend) 
 
-UniTee is a single page ecommerce application that sells pocket tees. 
+👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
 ## Skills 💻  ##
 
