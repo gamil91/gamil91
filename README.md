@@ -55,6 +55,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <br />
 <hr />
 <br />
+
 ## Get in touch 📫 
 
 
