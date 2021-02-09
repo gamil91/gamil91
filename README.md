@@ -20,7 +20,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
-## Skills 💻 
+## Skills 💻  ##
 
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;">
@@ -42,7 +42,6 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 <a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
 
-<hr />
 <br />
 ## Get in touch 📫 
 
