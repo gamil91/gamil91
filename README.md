@@ -8,7 +8,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ## Projects 🎨 
 
-#### Today - [Frontend Repo](https://github.com/gamil91/today-frontend) |  Demo(https://www.loom.com/share/6388589da57b45b2ada143489c40fc9b) 
+#### Today - [Frontend Repo](https://github.com/gamil91/today-frontend) |  [Demo](https://www.loom.com/share/6388589da57b45b2ada143489c40fc9b) 
 
 📚  A productivity tool that integrates blog posting and list making applications into one application. 
 
