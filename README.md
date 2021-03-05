@@ -39,8 +39,6 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
 
-<a href="https://www.linkedin.com/in/alexagamil/" rel="nofollow">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width:100%;"></a>
 
 <br />
 <br />
