@@ -1,6 +1,6 @@
 # Hi there, I'm Alex 👋 
 
-Software Engineer, eager to combine technologies to create software to improve our day to day life. 
+Software Engineer, eager to combine technologies to create software to improve our day-to-day lives. 
 
 With a background in hospitality, I value the fulfillment of creating meaningful and memorable experiences. My desire to make a lasting difference that is accessible to everyone is what led me to software engineering. Immersing myself into programming, multiple languages, and frameworks, evidently proved the potential of growth for the community and myself is limitless. I am thrilled at the opportunity to contribute to any project that is motivated by positively impacting our day to day lives.
 
