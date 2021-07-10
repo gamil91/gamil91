@@ -16,7 +16,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 👾  Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
 
-#### UniTee - [Frontend Repo](https://github.com/gamil91/phase3-project-unitee-frontend) |  [Demo](https://github.com/gamil91/phase3-project-unitee-frontend) 
+#### UniTee - [Frontend Repo](https://github.com/gamil91/phase3-project-unitee-frontend) |  [VideoDemo](https://github.com/gamil91/phase3-project-unitee-frontend) 
 
 👕  UniTee is a single page ecommerce application that sells pocket tees. 
 
