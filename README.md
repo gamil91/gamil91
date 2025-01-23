@@ -8,11 +8,11 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ## Projects 🎨 
 
-#### Today - [Frontend Repo](https://github.com/gamil91/today-frontend) |  [VideoDemo](https://www.loom.com/share/6388589da57b45b2ada143489c40fc9b) | [Site](https://today-fe.herokuapp.com/)
+#### Today - [Frontend Repo](https://github.com/gamil91/today-frontend) |  [VideoDemo](https://www.loom.com/share/6388589da57b45b2ada143489c40fc9b)
 
 📚  A productivity tool that integrates blog posting and list making applications into one application. 
 
-#### MAKEgotchi -  [Frontend Repo](https://github.com/nnhk23/makegotchi-frontend) |  [VideoDemo](https://www.loom.com/share/1d922ab3b61a40e387eead7d8eb1d4af) | [Site](https://makegotchi.herokuapp.com/) 
+#### MAKEgotchi -  [Frontend Repo](https://github.com/nnhk23/makegotchi-frontend) |  [VideoDemo](https://www.loom.com/share/1d922ab3b61a40e387eead7d8eb1d4af)
 
 👾  Collaborated with three other developers MAKEgotchi is a Tamagotchi inspired game aimed for all ages. 
 
