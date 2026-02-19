@@ -22,26 +22,7 @@ With a background in hospitality, I value the fulfillment of creating meaningful
 
 ## Skills 💻  ##
 
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" height="40" width="40" style="max-width:100%;">
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;">
-
-
-<br />
-<br />
+TypeScript | BrightScript | Ruby | React | Jotai | Redux | Material UI | Ruby on Rails | Inversify | PostgreSQL | DynamoDB | Firebase | Amplitude | Kibana | GitHub | Sentry | Figma | Miro 
 
 ## Get in touch 📫 
 
